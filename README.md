@@ -6,4 +6,4 @@ they're our way of sharing our learning journey with you. We're all about trying
 
 ## Preview:
 https://haikerwalabhishek.github.io/-Elevate-Your-Business-with-Our-Pricing-Plans/
-![Pricing Cards]([url_to_your_image](https://haikerwalabhishek.github.io/-Elevate-Your-Business-with-Our-Pricing-Plans/)
+![Pricing Cards](https://haikerwalabhishek.github.io/-Elevate-Your-Business-with-Our-Pricing-Plans/)
