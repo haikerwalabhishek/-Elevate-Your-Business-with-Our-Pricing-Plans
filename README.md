@@ -6,5 +6,6 @@ they're our way of sharing our learning journey with you. We're all about trying
 
 ## Preview:
 https://haikerwalabhishek.github.io/-Elevate-Your-Business-with-Our-Pricing-Plans/
-![GitHub Logo](https://github.com/haikerwalabhishek/-Elevate-Your-Business-with-Our-Pricing-Plans/blob/main/pricing.png)
+
+<img src="https://github.com/haikerwalabhishek/-Elevate-Your-Business-with-Our-Pricing-Plans/blob/main/pricing.png" height=100px width=300px>
 
